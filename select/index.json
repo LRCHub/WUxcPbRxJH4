@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春になれば",
+  "base_artist": "wapiti",
+  "createdAt": "2026-02-11T14:13:30.827035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春になれば",
+      "artist": "wapiti",
+      "has_synced": false,
+      "path": "select/pl_01_春になれば_wapiti.txt"
+    }
+  ]
+}
